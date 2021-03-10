@@ -8,7 +8,7 @@ Made the repo. Please clone. Will be adding you guys as contributors soon.
 2) Open terminal and navigate to that folder and type:
 
 	```
-	git clone https://github.com/nishithamv/Personalized-Voice-Synthesizer.git
+	git clone https://github.com/nishithamv/Personalized_Voice_Synthesizer.git
 	```
 
 
